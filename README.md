@@ -1,7 +1,7 @@
-# OceanX AI – Multi-Agent Automation Workflow
+# Multi-Agent Automation Workflow
 
 ## Overview
-This project is a prototype multi-agent automation system designed for OceanX AI’s trade finance and logistics workflow.
+This project is a prototype multi-agent automation system.
 
 The goal of the system is to automate the customer onboarding and underwriting pipeline while minimizing manual operational work.
 
